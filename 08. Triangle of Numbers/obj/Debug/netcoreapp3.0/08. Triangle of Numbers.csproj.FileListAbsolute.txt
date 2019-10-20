@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.0\08. Triangle of Numbers.exe
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.0\08. Triangle of Numbers.deps.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.0\08. Triangle of Numbers.runtimeconfig.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.0\08. Triangle of Numbers.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.0\08. Triangle of Numbers.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.0\08. Triangle of Numbers.pdb
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.0\08. Triangle of Numbers.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.0\08. Triangle of Numbers.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.0\08. Triangle of Numbers.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.0\08. Triangle of Numbers.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.0\08. Triangle of Numbers.pdb

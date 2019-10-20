@@ -1,0 +1,10 @@
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.exe
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.deps.json
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.runtimeconfig.json
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.pdb
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.pdb

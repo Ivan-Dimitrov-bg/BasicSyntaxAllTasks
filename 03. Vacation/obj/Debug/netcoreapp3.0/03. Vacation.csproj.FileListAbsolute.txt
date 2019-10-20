@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.exe
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.deps.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.runtimeconfig.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.pdb
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.pdb

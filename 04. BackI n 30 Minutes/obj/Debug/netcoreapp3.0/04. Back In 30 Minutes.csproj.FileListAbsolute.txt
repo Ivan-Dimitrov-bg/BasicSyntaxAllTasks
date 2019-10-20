@@ -1,0 +1,10 @@
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.exe
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.deps.json
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.runtimeconfig.json
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.pdb
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\04. BackI n 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.pdb

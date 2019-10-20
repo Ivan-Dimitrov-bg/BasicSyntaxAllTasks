@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\bin\Debug\netcoreapp3.0\01. Sort Numbers.exe
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\bin\Debug\netcoreapp3.0\01. Sort Numbers.deps.json
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\bin\Debug\netcoreapp3.0\01. Sort Numbers.runtimeconfig.json
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\bin\Debug\netcoreapp3.0\01. Sort Numbers.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\bin\Debug\netcoreapp3.0\01. Sort Numbers.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\bin\Debug\netcoreapp3.0\01. Sort Numbers.pdb
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\obj\Debug\netcoreapp3.0\01. Sort Numbers.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\obj\Debug\netcoreapp3.0\01. Sort Numbers.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\obj\Debug\netcoreapp3.0\01. Sort Numbers.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\obj\Debug\netcoreapp3.0\01. Sort Numbers.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\01. Sort Numbers\obj\Debug\netcoreapp3.0\01. Sort Numbers.pdb

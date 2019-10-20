@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\bin\Debug\netcoreapp3.0\02. Divison.exe
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\bin\Debug\netcoreapp3.0\02. Divison.deps.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\bin\Debug\netcoreapp3.0\02. Divison.runtimeconfig.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\bin\Debug\netcoreapp3.0\02. Divison.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\bin\Debug\netcoreapp3.0\02. Divison.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\bin\Debug\netcoreapp3.0\02. Divison.pdb
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\obj\Debug\netcoreapp3.0\02. Divison.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\obj\Debug\netcoreapp3.0\02. Divison.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\obj\Debug\netcoreapp3.0\02. Divison.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\obj\Debug\netcoreapp3.0\02. Divison.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\02. Divison\obj\Debug\netcoreapp3.0\02. Divison.pdb

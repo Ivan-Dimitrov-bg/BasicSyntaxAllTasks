@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\bin\Debug\netcoreapp3.0\05. Messages.exe
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\bin\Debug\netcoreapp3.0\05. Messages.deps.json
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\bin\Debug\netcoreapp3.0\05. Messages.runtimeconfig.json
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\bin\Debug\netcoreapp3.0\05. Messages.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\bin\Debug\netcoreapp3.0\05. Messages.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\bin\Debug\netcoreapp3.0\05. Messages.pdb
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\obj\Debug\netcoreapp3.0\05. Messages.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\obj\Debug\netcoreapp3.0\05. Messages.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\obj\Debug\netcoreapp3.0\05. Messages.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\obj\Debug\netcoreapp3.0\05. Messages.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\05. Messages\obj\Debug\netcoreapp3.0\05. Messages.pdb

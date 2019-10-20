@@ -1,0 +1,10 @@
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.exe
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.deps.json
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.runtimeconfig.json
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.pdb
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.pdb

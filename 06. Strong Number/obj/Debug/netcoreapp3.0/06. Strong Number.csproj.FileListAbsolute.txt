@@ -1,0 +1,10 @@
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\bin\Debug\netcoreapp3.0\06. Strong Number.exe
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\bin\Debug\netcoreapp3.0\06. Strong Number.deps.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\bin\Debug\netcoreapp3.0\06. Strong Number.runtimeconfig.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\bin\Debug\netcoreapp3.0\06. Strong Number.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\bin\Debug\netcoreapp3.0\06. Strong Number.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\bin\Debug\netcoreapp3.0\06. Strong Number.pdb
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\obj\Debug\netcoreapp3.0\06. Strong Number.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\obj\Debug\netcoreapp3.0\06. Strong Number.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\obj\Debug\netcoreapp3.0\06. Strong Number.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\06. Strong Number\obj\Debug\netcoreapp3.0\06. Strong Number.pdb

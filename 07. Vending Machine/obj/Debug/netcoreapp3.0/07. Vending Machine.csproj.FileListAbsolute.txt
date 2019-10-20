@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\bin\Debug\netcoreapp3.0\07. Vending Machine.exe
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\bin\Debug\netcoreapp3.0\07. Vending Machine.deps.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\bin\Debug\netcoreapp3.0\07. Vending Machine.runtimeconfig.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\bin\Debug\netcoreapp3.0\07. Vending Machine.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\bin\Debug\netcoreapp3.0\07. Vending Machine.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\bin\Debug\netcoreapp3.0\07. Vending Machine.pdb
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\obj\Debug\netcoreapp3.0\07. Vending Machine.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\obj\Debug\netcoreapp3.0\07. Vending Machine.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\obj\Debug\netcoreapp3.0\07. Vending Machine.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\obj\Debug\netcoreapp3.0\07. Vending Machine.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\07. Vending Machine\obj\Debug\netcoreapp3.0\07. Vending Machine.pdb

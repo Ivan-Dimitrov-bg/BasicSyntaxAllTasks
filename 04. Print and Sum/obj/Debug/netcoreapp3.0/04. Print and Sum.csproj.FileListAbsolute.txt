@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\bin\Debug\netcoreapp3.0\04. Print and Sum.exe
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\bin\Debug\netcoreapp3.0\04. Print and Sum.deps.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\bin\Debug\netcoreapp3.0\04. Print and Sum.runtimeconfig.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\bin\Debug\netcoreapp3.0\04. Print and Sum.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\bin\Debug\netcoreapp3.0\04. Print and Sum.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\bin\Debug\netcoreapp3.0\04. Print and Sum.pdb
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\obj\Debug\netcoreapp3.0\04. Print and Sum.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\obj\Debug\netcoreapp3.0\04. Print and Sum.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\obj\Debug\netcoreapp3.0\04. Print and Sum.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\obj\Debug\netcoreapp3.0\04. Print and Sum.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\04. Print and Sum\obj\Debug\netcoreapp3.0\04. Print and Sum.pdb

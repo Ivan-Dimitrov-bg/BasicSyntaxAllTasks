@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\bin\Debug\netcoreapp3.0\04. Reverse String.exe
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\bin\Debug\netcoreapp3.0\04. Reverse String.deps.json
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\bin\Debug\netcoreapp3.0\04. Reverse String.runtimeconfig.json
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\bin\Debug\netcoreapp3.0\04. Reverse String.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\bin\Debug\netcoreapp3.0\04. Reverse String.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\bin\Debug\netcoreapp3.0\04. Reverse String.pdb
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\obj\Debug\netcoreapp3.0\04. Reverse String.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\obj\Debug\netcoreapp3.0\04. Reverse String.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\obj\Debug\netcoreapp3.0\04. Reverse String.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\obj\Debug\netcoreapp3.0\04. Reverse String.dll
+D:\Programing\C Sharp\my Code\BasicSyntax\04. Reverse String\obj\Debug\netcoreapp3.0\04. Reverse String.pdb

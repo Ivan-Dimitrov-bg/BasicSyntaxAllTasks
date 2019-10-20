@@ -1,0 +1,11 @@
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\bin\Debug\netcoreapp3.0\05. Login.exe
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\bin\Debug\netcoreapp3.0\05. Login.deps.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\bin\Debug\netcoreapp3.0\05. Login.runtimeconfig.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\bin\Debug\netcoreapp3.0\05. Login.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\bin\Debug\netcoreapp3.0\05. Login.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\bin\Debug\netcoreapp3.0\05. Login.pdb
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\obj\Debug\netcoreapp3.0\05. Login.csprojAssemblyReference.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\obj\Debug\netcoreapp3.0\05. Login.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\obj\Debug\netcoreapp3.0\05. Login.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\obj\Debug\netcoreapp3.0\05. Login.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\05. Login\obj\Debug\netcoreapp3.0\05. Login.pdb

@@ -1,0 +1,10 @@
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\bin\Debug\netcoreapp3.0\09. Padawan Equipment.exe
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\bin\Debug\netcoreapp3.0\09. Padawan Equipment.deps.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\bin\Debug\netcoreapp3.0\09. Padawan Equipment.runtimeconfig.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\bin\Debug\netcoreapp3.0\09. Padawan Equipment.runtimeconfig.dev.json
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\bin\Debug\netcoreapp3.0\09. Padawan Equipment.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\bin\Debug\netcoreapp3.0\09. Padawan Equipment.pdb
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\obj\Debug\netcoreapp3.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\obj\Debug\netcoreapp3.0\09. Padawan Equipment.AssemblyInfo.cs
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\obj\Debug\netcoreapp3.0\09. Padawan Equipment.dll
+D:\Programing\C Sharp\my Code\IntroAndBasicSyntaxExercise\09. Padawan Equipment\obj\Debug\netcoreapp3.0\09. Padawan Equipment.pdb
